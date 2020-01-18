@@ -27,7 +27,6 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 
 * [How to write an emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/) - A guide to developing a CHIP-8 interpreter in C/C++.
 * [Emulator 101: CHIP-8](http://www.emulator101.com/introduction-to-chip-8.html) - A guide to developing a CHIP-8 disassembler and interpreter in C.
-* [Emulating the Chip8 system](http://www.codeslinger.co.uk/pages/projects/chip8.html)
 
 ### Testing
 
@@ -49,7 +48,7 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 * [Octo](http://johnearnest.github.io/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
 * [wernsey chip8](https://github.com/wernsey/chip8) - A CHIP-8 assembler/disassembler.
 * [EZ-Bake Animator](http://beyondloom.com/tools/ezbake.html) - A graphics preparation tool that creates XOR-ed animations.
-* [EZ-Writer](http://beyondloom.com/tools/ezwriter.html) - A tool for converting text into CHIP-8 sprites..
+* [EZ-Writer](http://beyondloom.com/tools/ezwriter.html) - A tool for converting text into CHIP-8 sprites.
 * [EZ-Pack](http://beyondloom.com/tools/ezpack.html) - An image slicing/repaletting tool.
 * [Chipify](http://johnearnest.github.io/Octo/tools/Chipify/) - A script that filters and encodes mono-channel WAV audio to XO-CHIP audio.
 * [octofont](https://github.com/jdeeny/octofont/) - Convert TrueType (ttf) fonts to Octo code for CHIP-8.
@@ -57,7 +56,7 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 ### Guides and snippets
 
 * [Octo manual](https://johnearnest.github.io/Octo/docs/Manual.html) - The manual for Octo.
-* [A Beginner’s Guide to Programming with Chip8](http://johnearnest.github.io/Octo/docs/BeginnersGuide.html) - An introductory guide to CHIP-8 programming in Octo.
+* [A Beginner's Guide to Programming with Chip8](http://johnearnest.github.io/Octo/docs/BeginnersGuide.html) - An introductory guide to CHIP-8 programming in Octo.
 * [An Intermediate Guide to Game Development with Chip8](http://johnearnest.github.io/Octo/docs/IntermediateGuide.html) - Remaking the Atari 2600 game "Outlaw" for CHIP-8 in Octo.
 * [Chip8 Programming Techniques](http://johnearnest.github.io/Octo/docs/Chip8%20Programming.html) - Many different programming tips for CHIP-8.
 * [Octo Metaprogramming Cookbook](http://johnearnest.github.io/Octo/docs/MetaProgramming.html) - How to use Octo's assembly directives for meta-programming.
