@@ -30,6 +30,7 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 * [How to write an emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/) - A guide to developing a CHIP-8 interpreter in C/C++.
 * [Emulator 101: CHIP-8](http://www.emulator101.com/introduction-to-chip-8.html) - A guide to developing a CHIP-8 disassembler and interpreter in C.
 * [Chip 8 Instruction Scheduling and Frequency](https://jackson-s.me/2019/07/13/Chip-8-Instruction-Scheduling-and-Frequency.html) - Timing of CHIP-8 instructions on the COSMAC VIP.
+* [High-level guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
 
 ### Testing
 
