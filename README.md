@@ -34,6 +34,7 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 
 ### Testing
 
+* [chip8-test-rom](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
 * [Delay timer test](https://github.com/mattmikolay/chip-8/tree/master/delaytimer)
 * [Random number test](https://github.com/mattmikolay/chip-8/tree/master/randomnumber)
 
