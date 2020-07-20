@@ -10,7 +10,7 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 
 ## Community
 
-* [RCA COSMAC VIP Yahoo! Group](https://groups.yahoo.com/neo/groups/rcacosmac/info) - Group dedicated to preserving the history of the COSMAC VIP.
+* [COSMAC Elf Group](https://groups.io/g/cosmacelf) - Group for discussion of the COSMAC Elf, as well as anything else RCA 1802-related, including COSMAC VIP and CHIP-8.
 * [#chip8 channel on the Emulation Development Discord server](https://discordapp.com/invite/Gf7cP3w) - Chat for discussing development of CHIP-8 emulators/interpreters.
 * [OctoJam](http://octojam.com/) - An Octo-centric game jam held every October.
 
