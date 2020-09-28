@@ -2,6 +2,8 @@
 
 [<img src="c8.png" align="right" width="100">](https://chip-8.github.io)
 
+> Virtual computer game machine from the 70s 
+
 A curated list of awesome CHIP-8 resources, tools, documentation, related projects and open source ROMs.
 
 Created in 1977, CHIP-8 is the original fantasy console. Initially designed to ease game development for the COSMAC VIP kit computer, it has enjoyed several revivals over the decades for new and exciting platforms. Today, creating a CHIP-8 implementation is a rite of passage for anyone interested in learning about emulation.
