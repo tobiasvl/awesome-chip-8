@@ -63,7 +63,7 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 
 ### Tools
 
-* [Octo](http://johnearnest.github.io/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
+* [Octo](http://github.com/johnearnest/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
 * [wernsey chip8](https://github.com/wernsey/chip8) - A CHIP-8 assembler/disassembler.
 * [EZ-Bake Animator](http://beyondloom.com/tools/ezbake.html) - A graphics preparation tool that creates XOR-ed animations.
 * [EZ-Writer](http://beyondloom.com/tools/ezwriter.html) - A tool for converting text into CHIP-8 sprites.
