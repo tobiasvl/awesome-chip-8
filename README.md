@@ -8,6 +8,19 @@ Created in 1977, CHIP-8 is the original fantasy console. Initially designed to e
 
 To add something to this list, please see the [contribution guidelines](CONTRIBUTING.md).
 
+## Contents
+
+* [Community](#community)
+* [Documentation](#documentation)
+* [Emulator/interpreter development](#emulatorinterpreter-development)
+  * [Testing](#testing)
+* [Emulators/interpreters](#emulatorsinterpreters)
+* [Software development](#software-development)
+  * [Tools](#tools)
+  * [Guides and snippets](#guides-and-snippets)
+  * [Postmortems](#postmortems)
+* [Games](#games)
+
 ## Community
 
 * [COSMAC Elf Group](https://groups.io/g/cosmacelf) - Group for discussion of the COSMAC Elf, as well as anything else RCA 1802-related, including COSMAC VIP and CHIP-8.
