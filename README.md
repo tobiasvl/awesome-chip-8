@@ -45,13 +45,13 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 * [How to write an emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/) - A guide to developing a CHIP-8 interpreter in C/C++.
 * [Emulator 101: CHIP-8](http://www.emulator101.com/introduction-to-chip-8.html) - A guide to developing a CHIP-8 disassembler and interpreter in C.
 * [Chip 8 Instruction Scheduling and Frequency](https://jackson-s.me/2019/07/13/Chip-8-Instruction-Scheduling-and-Frequency.html) - Timing of CHIP-8 instructions on the COSMAC VIP.
-* [High-level guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+* [High-level guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/) - A guide for developing a CHIP-8 interpreter, without code.
 
 ### Testing
 
 * [chip8-test-rom](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
-* [Delay timer test](https://github.com/mattmikolay/chip-8/tree/master/delaytimer)
-* [Random number test](https://github.com/mattmikolay/chip-8/tree/master/randomnumber)
+* [Delay timer test](https://github.com/mattmikolay/chip-8/tree/master/delaytimer) - Test program that checks the delay timer's behavior.
+* [Random number test](https://github.com/mattmikolay/chip-8/tree/master/randomnumber) - Test program that checks the spread and mask for random number generation.
 
 ## Emulators/interpreters
 
@@ -85,6 +85,8 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 * [hip8-multiply](https://github.com/jdeeny/chip8-multiply) - Multiplication routines for CHIP-8, written in Octo.
 
 ### Postmortems
+
+Postmortems detailing the development of specific games, written by the developers.
 
 * [Inside Eaty the Alien](http://johnearnest.github.io/Octo/docs/EatyTheAlien.html)
 * [Octopeg Post Mortem](http://www.awfuljams.com/octojam-ii/games/octopeg)
