@@ -6,7 +6,7 @@
 
 A curated list of awesome CHIP-8 resources, tools, documentation, related projects and open source ROMs.
 
-Created in 1977, CHIP-8 is the original fantasy console. Initially designed to ease game development for the COSMAC VIP kit computer, it has enjoyed several revivals over the decades for new and exciting platforms. Today, creating a CHIP-8 implementation is a rite of passage for anyone interested in learning about emulation.
+Created in 1977, [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) is the original fantasy console. Initially designed to ease game development for the COSMAC VIP kit computer, it has enjoyed several revivals over the decades for new and exciting platforms. Today, creating a CHIP-8 implementation is a rite of passage for anyone interested in learning about emulation.
 
 To add something to this list, please see the [contribution guidelines](CONTRIBUTING.md).
 
