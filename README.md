@@ -82,7 +82,7 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 * [Octo Metaprogramming Cookbook](http://johnearnest.github.io/Octo/docs/MetaProgramming.html) - How to use Octo's assembly directives for meta-programming.
 * [Mastering SuperChip](http://johnearnest.github.io/Octo/docs/SuperChip.html) - How to make games compatible with CHIP-8 and Super-CHIP, as well as some Super-CHIP specific techniques.
 * [Adventures in Sorting](https://johnearnest.github.io/Octo/docs/Sorting.html) - Implementing efficient sorting algorithms in Octo for CHIP-8.
-* [hip8-multiply](https://github.com/jdeeny/chip8-multiply) - Multiplication routines for CHIP-8, written in Octo.
+* [chip8-multiply](https://github.com/jdeeny/chip8-multiply) - Multiplication routines for CHIP-8, written in Octo.
 
 ### Postmortems
 
